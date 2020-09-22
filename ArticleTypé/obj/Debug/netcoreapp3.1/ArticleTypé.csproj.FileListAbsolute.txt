@@ -1,0 +1,13 @@
+C:\Users\mathy\source\repos\ConsoleApp1\ArticleTypé\bin\Debug\netcoreapp3.1\ArticleTypé.exe
+C:\Users\mathy\source\repos\ConsoleApp1\ArticleTypé\bin\Debug\netcoreapp3.1\ArticleTypé.deps.json
+C:\Users\mathy\source\repos\ConsoleApp1\ArticleTypé\bin\Debug\netcoreapp3.1\ArticleTypé.runtimeconfig.json
+C:\Users\mathy\source\repos\ConsoleApp1\ArticleTypé\bin\Debug\netcoreapp3.1\ArticleTypé.runtimeconfig.dev.json
+C:\Users\mathy\source\repos\ConsoleApp1\ArticleTypé\bin\Debug\netcoreapp3.1\ArticleTypé.dll
+C:\Users\mathy\source\repos\ConsoleApp1\ArticleTypé\bin\Debug\netcoreapp3.1\ArticleTypé.pdb
+C:\Users\mathy\source\repos\ConsoleApp1\ArticleTypé\obj\Debug\netcoreapp3.1\ArticleTypé.csprojAssemblyReference.cache
+C:\Users\mathy\source\repos\ConsoleApp1\ArticleTypé\obj\Debug\netcoreapp3.1\ArticleTypé.AssemblyInfoInputs.cache
+C:\Users\mathy\source\repos\ConsoleApp1\ArticleTypé\obj\Debug\netcoreapp3.1\ArticleTypé.AssemblyInfo.cs
+C:\Users\mathy\source\repos\ConsoleApp1\ArticleTypé\obj\Debug\netcoreapp3.1\ArticleTypé.csproj.CoreCompileInputs.cache
+C:\Users\mathy\source\repos\ConsoleApp1\ArticleTypé\obj\Debug\netcoreapp3.1\ArticleTypé.dll
+C:\Users\mathy\source\repos\ConsoleApp1\ArticleTypé\obj\Debug\netcoreapp3.1\ArticleTypé.pdb
+C:\Users\mathy\source\repos\ConsoleApp1\ArticleTypé\obj\Debug\netcoreapp3.1\ArticleTypé.genruntimeconfig.cache
