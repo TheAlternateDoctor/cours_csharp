@@ -1,0 +1,13 @@
+C:\Users\mathy\source\repos\ProgrammationObjet\ProgrammationObjet\bin\Debug\netcoreapp3.1\Personnes.exe
+C:\Users\mathy\source\repos\ProgrammationObjet\ProgrammationObjet\bin\Debug\netcoreapp3.1\Personnes.deps.json
+C:\Users\mathy\source\repos\ProgrammationObjet\ProgrammationObjet\bin\Debug\netcoreapp3.1\Personnes.runtimeconfig.json
+C:\Users\mathy\source\repos\ProgrammationObjet\ProgrammationObjet\bin\Debug\netcoreapp3.1\Personnes.runtimeconfig.dev.json
+C:\Users\mathy\source\repos\ProgrammationObjet\ProgrammationObjet\bin\Debug\netcoreapp3.1\Personnes.dll
+C:\Users\mathy\source\repos\ProgrammationObjet\ProgrammationObjet\bin\Debug\netcoreapp3.1\Personnes.pdb
+C:\Users\mathy\source\repos\ProgrammationObjet\ProgrammationObjet\obj\Debug\netcoreapp3.1\Personnes.csprojAssemblyReference.cache
+C:\Users\mathy\source\repos\ProgrammationObjet\ProgrammationObjet\obj\Debug\netcoreapp3.1\Personnes.AssemblyInfoInputs.cache
+C:\Users\mathy\source\repos\ProgrammationObjet\ProgrammationObjet\obj\Debug\netcoreapp3.1\Personnes.AssemblyInfo.cs
+C:\Users\mathy\source\repos\ProgrammationObjet\ProgrammationObjet\obj\Debug\netcoreapp3.1\Personnes.csproj.CoreCompileInputs.cache
+C:\Users\mathy\source\repos\ProgrammationObjet\ProgrammationObjet\obj\Debug\netcoreapp3.1\Personnes.dll
+C:\Users\mathy\source\repos\ProgrammationObjet\ProgrammationObjet\obj\Debug\netcoreapp3.1\Personnes.pdb
+C:\Users\mathy\source\repos\ProgrammationObjet\ProgrammationObjet\obj\Debug\netcoreapp3.1\Personnes.genruntimeconfig.cache
