@@ -1,0 +1,12 @@
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéTableau\obj\Debug\netcoreapp3.1\SociétéTableau.AssemblyInfoInputs.cache
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéTableau\obj\Debug\netcoreapp3.1\SociétéTableau.AssemblyInfo.cs
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéTableau\obj\Debug\netcoreapp3.1\SociétéTableau.csproj.CoreCompileInputs.cache
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéTableau\bin\Debug\netcoreapp3.1\SociétéTableau.exe
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéTableau\bin\Debug\netcoreapp3.1\SociétéTableau.deps.json
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéTableau\bin\Debug\netcoreapp3.1\SociétéTableau.runtimeconfig.json
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéTableau\bin\Debug\netcoreapp3.1\SociétéTableau.runtimeconfig.dev.json
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéTableau\bin\Debug\netcoreapp3.1\SociétéTableau.dll
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéTableau\bin\Debug\netcoreapp3.1\SociétéTableau.pdb
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéTableau\obj\Debug\netcoreapp3.1\SociétéTableau.dll
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéTableau\obj\Debug\netcoreapp3.1\SociétéTableau.pdb
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéTableau\obj\Debug\netcoreapp3.1\SociétéTableau.genruntimeconfig.cache

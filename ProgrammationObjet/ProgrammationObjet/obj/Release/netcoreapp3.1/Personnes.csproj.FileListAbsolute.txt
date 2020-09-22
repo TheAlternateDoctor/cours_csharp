@@ -10,3 +10,4 @@ C:\Users\mathy\source\repos\ProgrammationObjet\ProgrammationObjet\obj\Release\ne
 C:\Users\mathy\source\repos\ProgrammationObjet\ProgrammationObjet\obj\Release\netcoreapp3.1\Personnes.dll
 C:\Users\mathy\source\repos\ProgrammationObjet\ProgrammationObjet\obj\Release\netcoreapp3.1\Personnes.pdb
 C:\Users\mathy\source\repos\ProgrammationObjet\ProgrammationObjet\obj\Release\netcoreapp3.1\Personnes.genruntimeconfig.cache
+C:\Users\mathy\source\repos\ProgrammationObjet\ProgrammationObjet\obj\Release\netcoreapp3.1\Personnes.csprojAssemblyReference.cache
