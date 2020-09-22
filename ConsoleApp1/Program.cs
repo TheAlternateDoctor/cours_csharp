@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CousCSharp
+namespace LesBases
 {
     class Program
     {
