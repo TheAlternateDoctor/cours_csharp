@@ -8,11 +8,10 @@ namespace SociétéTableau
     {
         private String _Service;
 
-
         public String Service
         {
             get => _Service;
-            set => _Service = Service;
+            set => _Service = value;
         }
 
         public Chef(String nom, String prenom, int age, decimal salaire,string service): base(nom, prenom, age, salaire)

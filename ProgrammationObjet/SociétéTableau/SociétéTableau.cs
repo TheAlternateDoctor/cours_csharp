@@ -22,12 +22,14 @@ namespace SociétéTableau
                 societe[i].Afficher();
             }
             Console.WriteLine();
-            societe[0]++; //On perd des données; j'irais voir ça après
-            ((Employé)societe[4]).Salaire = 2_200;//Ne marche pas. Je sais pas pourquoi, mais ça marche pas
+            Employé temployé = (Employé)societe[0]; //On perd des données; j'irais voir ça après
+            temployé++;
+            societe[0] = temployé;
+            ((Employé)societe[4]).Salaire = 2_200;
             ((Chef)societe[6]).Service = "Ressources Humaines";
             foreach (Personne personne in societe)
             {
-                Console.WriteLine(personne);
+                Console.WriteLine(Convert.ChangeType(personne, personne.GetType()));
             }
         }
     }

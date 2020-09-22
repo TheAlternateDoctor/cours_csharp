@@ -18,7 +18,7 @@ namespace SociétéTableau
         public int Age
         {
             get => _Age;
-            set => _Age = Age;
+            set => _Age = value;
         }
 
         public static Personne operator ++(Personne a)

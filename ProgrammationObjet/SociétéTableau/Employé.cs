@@ -12,7 +12,13 @@ namespace SociétéTableau
         public decimal Salaire
         {
             get => _Salaire;
-            set => _Salaire = Salaire;
+            set => _Salaire = value;
+        }
+
+        public static Employé operator ++(Employé a)
+        {
+            int age = a.Age + 1;
+            return new Employé(a.Nom, a.Prenom, age,a.Salaire);
         }
 
         public Employé(String nom, String prenom, int age,decimal salaire):base(nom,prenom,age)
