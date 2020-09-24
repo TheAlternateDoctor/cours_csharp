@@ -78,5 +78,10 @@ namespace ListeChainée
                 elementCourant = elementCourant.Suivant;
             }
         }
+
+        public void Vider()
+        {
+            _Début.Suivant = null;
+        }
     }
 }
