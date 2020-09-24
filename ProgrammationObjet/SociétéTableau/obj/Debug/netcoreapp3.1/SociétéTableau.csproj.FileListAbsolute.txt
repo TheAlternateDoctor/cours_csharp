@@ -10,3 +10,4 @@ C:\Users\mathy\source\repos\ProgrammationObjet\SociétéTableau\bin\Debug\netcor
 C:\Users\mathy\source\repos\ProgrammationObjet\SociétéTableau\obj\Debug\netcoreapp3.1\SociétéTableau.dll
 C:\Users\mathy\source\repos\ProgrammationObjet\SociétéTableau\obj\Debug\netcoreapp3.1\SociétéTableau.pdb
 C:\Users\mathy\source\repos\ProgrammationObjet\SociétéTableau\obj\Debug\netcoreapp3.1\SociétéTableau.genruntimeconfig.cache
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéTableau\obj\Debug\netcoreapp3.1\SociétéTableau.csprojAssemblyReference.cache

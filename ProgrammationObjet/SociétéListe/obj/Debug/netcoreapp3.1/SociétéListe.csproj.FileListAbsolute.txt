@@ -1,0 +1,13 @@
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéListe\obj\Debug\netcoreapp3.1\SociétéListe.csprojAssemblyReference.cache
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéListe\obj\Debug\netcoreapp3.1\SociétéListe.AssemblyInfoInputs.cache
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéListe\obj\Debug\netcoreapp3.1\SociétéListe.AssemblyInfo.cs
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéListe\obj\Debug\netcoreapp3.1\SociétéListe.csproj.CoreCompileInputs.cache
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéListe\bin\Debug\netcoreapp3.1\SociétéListe.exe
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéListe\bin\Debug\netcoreapp3.1\SociétéListe.deps.json
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéListe\bin\Debug\netcoreapp3.1\SociétéListe.runtimeconfig.json
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéListe\bin\Debug\netcoreapp3.1\SociétéListe.runtimeconfig.dev.json
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéListe\bin\Debug\netcoreapp3.1\SociétéListe.dll
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéListe\bin\Debug\netcoreapp3.1\SociétéListe.pdb
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéListe\obj\Debug\netcoreapp3.1\SociétéListe.dll
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéListe\obj\Debug\netcoreapp3.1\SociétéListe.pdb
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéListe\obj\Debug\netcoreapp3.1\SociétéListe.genruntimeconfig.cache

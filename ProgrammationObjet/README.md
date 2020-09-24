@@ -6,3 +6,7 @@ Réponse: Le destructeur n'est pas appelé à la fin de ma fonction ThrowawayPer
 #Exercice 2
 
 Cet exercice porte sur le polymorphisme et les surcharges de méthodes.
+
+#Exercice 3
+
+Cet exercice porte sur les Indexeurs, entre autres.
