@@ -1,0 +1,13 @@
+C:\Users\mathy\source\repos\LINQ\LinqArticles\bin\Debug\netcoreapp3.1\LinqArticles.exe
+C:\Users\mathy\source\repos\LINQ\LinqArticles\bin\Debug\netcoreapp3.1\LinqArticles.deps.json
+C:\Users\mathy\source\repos\LINQ\LinqArticles\bin\Debug\netcoreapp3.1\LinqArticles.runtimeconfig.json
+C:\Users\mathy\source\repos\LINQ\LinqArticles\bin\Debug\netcoreapp3.1\LinqArticles.runtimeconfig.dev.json
+C:\Users\mathy\source\repos\LINQ\LinqArticles\bin\Debug\netcoreapp3.1\LinqArticles.dll
+C:\Users\mathy\source\repos\LINQ\LinqArticles\bin\Debug\netcoreapp3.1\LinqArticles.pdb
+C:\Users\mathy\source\repos\LINQ\LinqArticles\obj\Debug\netcoreapp3.1\LinqArticles.csprojAssemblyReference.cache
+C:\Users\mathy\source\repos\LINQ\LinqArticles\obj\Debug\netcoreapp3.1\LinqArticles.AssemblyInfoInputs.cache
+C:\Users\mathy\source\repos\LINQ\LinqArticles\obj\Debug\netcoreapp3.1\LinqArticles.AssemblyInfo.cs
+C:\Users\mathy\source\repos\LINQ\LinqArticles\obj\Debug\netcoreapp3.1\LinqArticles.csproj.CoreCompileInputs.cache
+C:\Users\mathy\source\repos\LINQ\LinqArticles\obj\Debug\netcoreapp3.1\LinqArticles.dll
+C:\Users\mathy\source\repos\LINQ\LinqArticles\obj\Debug\netcoreapp3.1\LinqArticles.pdb
+C:\Users\mathy\source\repos\LINQ\LinqArticles\obj\Debug\netcoreapp3.1\LinqArticles.genruntimeconfig.cache
