@@ -1,0 +1,13 @@
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéEnumération\obj\Debug\netcoreapp3.1\SociétéEnumération.csprojAssemblyReference.cache
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéEnumération\obj\Debug\netcoreapp3.1\SociétéEnumération.AssemblyInfoInputs.cache
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéEnumération\obj\Debug\netcoreapp3.1\SociétéEnumération.AssemblyInfo.cs
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéEnumération\obj\Debug\netcoreapp3.1\SociétéEnumération.csproj.CoreCompileInputs.cache
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéEnumération\bin\Debug\netcoreapp3.1\SociétéEnumération.exe
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéEnumération\bin\Debug\netcoreapp3.1\SociétéEnumération.deps.json
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéEnumération\bin\Debug\netcoreapp3.1\SociétéEnumération.runtimeconfig.json
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéEnumération\bin\Debug\netcoreapp3.1\SociétéEnumération.runtimeconfig.dev.json
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéEnumération\bin\Debug\netcoreapp3.1\SociétéEnumération.dll
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéEnumération\bin\Debug\netcoreapp3.1\SociétéEnumération.pdb
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéEnumération\obj\Debug\netcoreapp3.1\SociétéEnumération.dll
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéEnumération\obj\Debug\netcoreapp3.1\SociétéEnumération.pdb
+C:\Users\mathy\source\repos\ProgrammationObjet\SociétéEnumération\obj\Debug\netcoreapp3.1\SociétéEnumération.genruntimeconfig.cache

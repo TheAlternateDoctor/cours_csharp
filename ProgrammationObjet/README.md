@@ -10,3 +10,7 @@ Cet exercice porte sur le polymorphisme et les surcharges de méthodes.
 #Exercice 3
 
 Cet exercice porte sur les Indexeurs, entre autres.
+
+#Exercice 4
+
+Cet exercice porte sur l'interface IEnumerator ainsi que sur l'utilité des Enumerator en général.
